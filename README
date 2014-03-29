@@ -1,0 +1,43 @@
+SUMMARY
+
+This project is a simple project, more about becoming familiar with the
+LC3 instruction set and toolchain than solving a difficult problem. The
+purpose is to examine the value pre-loaded into the first register (R0)
+and store the number of set bits into the eigth register (R7).
+
+
+BUILING
+
+This project must be built using the LC3 assembler and toolchain
+available here:
+
+http://tinyurl.com/dn8ko
+
+Once the tools are build and/or installed, the project can be built
+with the following commands.
+
+$ echo "fix this later"
+
+
+RUNNING
+
+Because the LC3 processor is a simplified and hypothetical processor
+created for use in introductory-level computer architecture classes,
+there is no way to run this program with actual hardware. Instead, one
+must download and install the LC3 simulator available at:
+
+http://tinyurl.com/dn8ko
+
+Once the simulator is build and/or installed, launch it.
+
+$ /path/to/lc3sim
+
+The simulator will present you with a prompt. From here, I don't know
+what to do yet.
+
+
+ABOUT
+
+Written on 29 March 14 by Mason Fabel.
+
+Licensed under the WTF Public License.
